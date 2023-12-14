@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="320"
+   height="206.71999"
+   viewBox="0 0 320 206.71999"
+   sodipodi:docname="node-2.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 999.99994 V 643.71252 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-24.140625,-70)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-23.953125,-22.999999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-4.5625,-120)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-128.1875,-140)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-8.140625,-180)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-146.42188,-200)"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="320"
+       height="206.71999"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 334 V 215 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,40 H 331 V 90 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,23.128973,67.066536)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 15.101562 24 32.898438 38.226562 47.125 51.570312 60.46875 69.367188 73.8125 77.367188 90.695312 99.59375 108.49219 117.39062 125.39062 129.83594 138.73438 147.63281 152.07812 156.52344 165.42188 174.32031 182.32031 190.32031 193.875 201.875 210.77344 214.32812 217.88281 225.88281 230.32812 238.32812 242.77344 251.67188 257 265.89844 274.79688"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Where do images get physically stored?</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,22.94933,22.036147)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 17.332031 24 38.660156 45.328125 51.996094 73.335938 86.683594 101.34375 114.69141 121.35938 138.69141 153.35156 160.01953 174.67969 188.02734 202.6875 209.35547 216.02344 229.37109 242.71875 257.37891 270.72656"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Big Image Upload Issues</tspan></text>
+    <path
+       id="path7"
+       d="m 1,100 h 330 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,4.371301,114.9712)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.554688 20.453125 32.007812 36.453125 45.351562 54.25 58.695312 62.25 75.578125 84.476562 93.375 102.27344 110.27344 114.71875 120.94531 129.84375 138.74219 143.1875 149.41406 153.85938 158.30469 167.20312 171.64844 176.09375 184.99219 193.89062 198.33594 207.23438 210.78906 219.6875 227.6875 236.58594 241.03125 245.47656 254.375 263.27344 271.27344 275.71875 283.71875 292.61719 301.51562 310.41406 313.96875"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">How do images *get* to the place they should</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,122.81559,134.13307)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.8984375 17.796875 22.242188 30.242188 34.6875 43.585938 48.914062 57.8125 66.710938"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">be stored?</tspan></text>
+    <path
+       id="path11"
+       d="m 1,160 h 330 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath12)" />
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,7.7994788,172.45681)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.554688 20.453125 32.007812 36.453125 45.351562 54.25 58.695312 70.25 79.148438 83.59375 88.921875 97.820312 101.375 110.27344 114.71875 123.61719 128.0625 131.61719 144.94531 153.84375 162.74219 171.64062 179.64062 184.08594 188.53125 197.42969 201.875 210.77344 215.21875 224.11719 233.01562 238.34375 242.78906 246.34375 254.34375 263.24219 266.79688 275.69531 281.02344 285.46875 294.36719 297.92188 306.82031"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">How do we relate images to a particular blog</tspan></text>
+    <text
+       id="text13"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,140.28583,191.61867)"
+       clip-path="url(#clipPath14)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.8984375 17.796875 25.796875 30.242188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan13">post?</tspan></text>
+  </g>
+</svg>

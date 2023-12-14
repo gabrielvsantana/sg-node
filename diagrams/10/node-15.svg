@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="568"
+   height="169.28"
+   viewBox="0 0 568 169.28"
+   sodipodi:docname="node-15.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1775 V 527.7027 H 0 Z"
+         transform="scale(0.33352113)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(0.33351779,0,0,0.33351779,-60.96875,-19)"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="scale(0.33352113)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(0.33351779,0,0,0.33351779,-79.90625,-69)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="scale(0.33352113)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(0.33351779,0,0,0.33351779,-109.09375,-149)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(-0.33352113,0,0,-0.33352113,872.00003,123.99999)"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(0.33351779,0,0,0.33351779,-454.18749,-69)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(-0.33352113,0,0,-0.33352113,872.00003,283.99999)"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="M 0,0 H 1775 V 524.70441 H 0 Z"
+         transform="matrix(0.33351779,0,0,0.33351779,-455.64063,-149)"
+         clip-rule="evenodd"
+         id="path15" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="568"
+       height="169.28"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 592 V 176 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95945942)"
+       clip-path="url(#clipPath2)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(0.95946902,0,0,0.95946902,58.497627,18.229911)"
+       clip-path="url(#clipPath3)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.5566406 23.339844 35.556641 43.339844 55.556641 66.679688 72.236328 84.453125 96.669922 102.22656 116.66992 128.88672 141.10352 152.22656 157.7832 171.12305 182.24609 190.0293 196.68945 208.90625 216.68945 234.47266 245.5957 257.8125 268.93555"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">Improving Node Performance</tspan></text>
+    <path
+       id="path4"
+       d="M 1,32 H 401 V 92 H 1 Z"
+       style="fill:#d5e8d4;fill-opacity:1;fill-rule:nonzero;stroke:#82b366;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95945942)"
+       clip-path="url(#clipPath5)" />
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95946902,0,0,0.95946902,76.667571,66.203362)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.443359 24.443359 35.566406 41.123047 55.566406 66.689453 77.8125 88.935547 94.492188 98.935547 110.05859 115.61523 119.43359 133.87695 138.32031 149.44336 159.44336 165 176.12305 182.7832 186.60156 192.1582 208.81836 219.94141 231.06445"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Use Node in 'Cluster' Mode</tspan></text>
+    <path
+       id="path7"
+       d="m 1,112 h 400 v 60 H 1 Z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:#d6b656;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95945942)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95946902,0,0,0.95946902,104.67207,142.96088)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.443359 24.443359 35.566406 41.123047 59.648438 70.771484 77.431641 87.431641 98.554688 105.21484 110.41992 122.63672 133.75977 140.41992 151.54297 162.66602 173.78906"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">Use Worker Threads</tspan></text>
+    <path
+       id="path10"
+       d="m 456,32 h -10 c -6.66666,0 -10,3.333332 -10,10 v 10 c 0,6.666668 -3.33334,10 -10,10 h -5 c -3.33334,0 -1.66666,0 5,0 h 5 c 3.33334,0 5,3.333336 5,10 v 10 c 0,6.666664 3.33334,10 10,10 h 10"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-0.95945942,0,0,-0.95945942,836.64864,118.97296)"
+       clip-path="url(#clipPath11)" />
+    <text
+       id="text11"
+       xml:space="preserve"
+       transform="matrix(0.95946902,0,0,0.95946902,435.77883,66.203362)"
+       clip-path="url(#clipPath12)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.443359 25.566406 35.566406 46.689453 63.349609 80.009766 91.132812 102.25586 113.37891 124.50195"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">Recommended</tspan></text>
+    <path
+       id="path13"
+       d="m 456,112 h -10 c -6.66666,0 -10,3.33334 -10,10 v 10 c 0,6.66667 -3.33334,10 -10,10 h -5 c -3.33334,0 -1.66666,0 5,0 h 5 c 3.33334,0 5,3.33333 5,10 v 10 c 0,6.66667 3.33334,10 10,10 h 10"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(-0.95945942,0,0,-0.95945942,836.64864,272.48647)"
+       clip-path="url(#clipPath14)" />
+    <text
+       id="text14"
+       xml:space="preserve"
+       transform="matrix(0.95946902,0,0,0.95946902,437.17307,142.96088)"
+       clip-path="url(#clipPath15)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 13.339844 23.339844 34.462891 45.585938 52.246094 56.689453 73.349609 84.472656 95.595703 101.15234 112.27539"
+         y="0"
+         sodipodi:role="line"
+         id="tspan14">Experimental</tspan></text>
+  </g>
+</svg>

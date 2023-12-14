@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="442.55997"
+   height="74.559998"
+   viewBox="0 0 442.55997 74.559998"
+   sodipodi:docname="node-12.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1383.3333 V 230.55554 H 0 Z"
+         transform="scale(0.33397591)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 1383.3333 V 227.56133 H 0 Z"
+         transform="matrix(0.33397257,0,0,0.33397257,-17.03125,-19)"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 1383.3333 V 227.56133 H 0 Z"
+         transform="matrix(0.33397257,0,0,0.33397257,-87.765625,-69)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="442.55997"
+       height="74.559998"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 462 V 77 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95815289)"
+       clip-path="url(#clipPath2)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(0.95816249,0,0,0.95816249,16.318705,18.205087)"
+       clip-path="url(#clipPath3)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.5566406 10.3125 28.095703 33.652344 45.869141 58.085938 64.746094 70.302734 76.962891 84.746094 95.869141 101.42578 113.64258 125.85938 131.41602 138.07617 150.29297 155.84961 166.97266 178.0957 189.21875 197.00195 208.125 213.68164 224.80469 237.02148 249.23828 254.79492 265.91797 281.47461 292.59766 303.7207 309.27734 315.9375 323.7207 335.9375 353.7207 359.27734 373.7207 385.9375 398.1543 409.27734"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">I'm not trying to scare you away from Node!</tspan></text>
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(0.95816249,0,0,0.95816249,84.09373,66.113212)"
+       clip-path="url(#clipPath4)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:20px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.216797 24.433594 29.990234 42.207031 53.330078 58.886719 70.009766 82.226562 94.443359 106.66016 113.32031 118.87695 125.53711 137.75391 148.87695 154.43359 165.55664 177.77344 189.99023 201.11328 206.66992 217.79297 230.00977 242.22656 247.7832 263.33984 271.12305 276.67969 283.33984"
+         y="0"
+         sodipodi:role="line"
+         id="tspan3">Think about the code you write</tspan></text>
+  </g>
+</svg>

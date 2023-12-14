@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="320"
+   height="206.71999"
+   viewBox="0 0 320 206.71999"
+   sodipodi:docname="node-11.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 999.99994 V 643.71252 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-4.109375,-70)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-34.609375,-22.999999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-7.390625,-180)"
+         clip-rule="evenodd"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-113.0625,-200)"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="scale(0.33400001)"
+         clip-rule="evenodd"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-11.65625,-120)"
+         clip-rule="evenodd"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 999.99994 V 637.72455 H 0 Z"
+         transform="matrix(0.33399666,0,0,0.33399666,-61.734375,-140)"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="320"
+       height="206.71999"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 334 V 215 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 1,40 H 331 V 90 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath4)" />
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,3.9371649,67.066536)"
+       clip-path="url(#clipPath5)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12.445312 21.34375 24.898438 32.898438 37.34375 45.34375 48.898438 57.796875 66.695312 75.59375 84.492188 88.9375 92.492188 101.39062 105.83594 114.73438 122.73438 131.63281 136.96094 144.96094 149.40625 157.40625 166.30469 175.20312 184.10156 187.65625 196.55469 201 209.89844 218.79688 223.24219 232.14062 241.03906 244.59375 253.49219 257.9375 262.38281 271.28125 275.72656 284.625 293.52344 297.07812 305.97656 314.875"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">Only signed in users should be able to upload</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,33.159013,22.036147)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 17.332031 31.992188 38.660156 53.320312 66.667969 81.328125 87.996094 104.00391 113.34375 128.00391 141.35156 154.69922 168.04688 181.39453 188.0625 194.73047 208.07812 221.42578 236.08594 249.43359"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Upload Process Issues</tspan></text>
+    <path
+       id="path7"
+       d="m 1,160 h 330 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath8)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,7.0809088,172.45681)"
+       clip-path="url(#clipPath9)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 14.820312 23.71875 28.164062 36.164062 45.0625 53.960938 62.859375 66.414062 75.3125 79.757812 88.65625 97.554688 101.10938 109.10938 113.55469 122.45312 126.00781 129.5625 138.46094 150.01562 154.46094 158.01562 171.34375 180.24219 189.14062 198.03906 206.03906 210.48438 215.8125 220.25781 223.8125 232.71094 241.60938 246.05469 250.5 254.94531 263.84375 272.74219 281.64062 286.08594 290.53125 299.42969 303.875 311.875"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">We should only allow images (.jpg, .png, etc)</tspan></text>
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,108.32443,191.61867)"
+       clip-path="url(#clipPath10)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 4.4453125 13.34375 17.789062 26.6875 35.585938 40.03125 48.929688 57.828125 61.382812 70.28125 79.179688 88.078125 96.976562"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">to be uploaded</tspan></text>
+    <path
+       id="path11"
+       d="m 1,100 h 330 v 50 H 1 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.95808377)"
+       clip-path="url(#clipPath12)" />
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,11.167776,114.9712)"
+       clip-path="url(#clipPath13)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.7734375 18.671875 27.570312 32.015625 40.914062 49.8125 53.367188 62.265625 71.164062 80.0625 88.960938 97.859375 102.30469 105.85938 119.1875 128.08594 136.98438 145.88281 150.32812 159.22656 168.125 177.02344 185.92188 193.92188 198.36719 202.8125 211.71094 216.15625 225.05469 233.95312 238.39844 242.84375 246.39844 255.29688 264.19531 268.64062 273.08594 281.98438 286.42969 290.875 299.77344"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">The uploaded image needs to be tied to the</tspan></text>
+    <text
+       id="text13"
+       xml:space="preserve"
+       transform="matrix(0.95809337,0,0,0.95809337,59.147295,134.13307)"
+       clip-path="url(#clipPath14)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.8984375 12.453125 21.351562 30.25 34.695312 43.59375 52.492188 60.492188 64.9375 69.382812 73.828125 82.726562 91.625 96.070312 99.125 107.125 111.57031 120.46875 129.36719 132.92188 141.82031 150.71875 155.16406 163.16406 168.49219 177.39062 186.28906 190.73438 199.63281"
+         y="0"
+         sodipodi:role="line"
+         id="tspan13">blog post that's being created</tspan></text>
+  </g>
+</svg>

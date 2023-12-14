@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="361.28"
+   height="186.56"
+   viewBox="0 0 361.28 186.56"
+   sodipodi:docname="node-8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 1129.1666 V 581.05658 H 0 Z"
+         transform="scale(0.33387454)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 1129.1666 V 575.06628 H 0 Z"
+         transform="matrix(0.3338712,0,0,0.3338712,-10.328125,-28)"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 1129.1666 V 575.06628 H 0 Z"
+         transform="matrix(0.33387454,0,0,0.33387454,-0.5,-0.5)"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 1129.1666 V 575.06628 H 0 Z"
+         transform="matrix(0.3338712,0,0,0.3338712,-119.17188,-103)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 1129.1666 V 575.06628 H 0 Z"
+         transform="matrix(0.3338712,0,0,0.3338712,-157.32813,-178.00001)"
+         clip-rule="evenodd"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="361.28"
+       height="186.56"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 377 V 194 H 0 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(0.9584438)"
+       clip-path="url(#clipPath2)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(0.9584534,0,0,0.9584534,9.8990265,26.836695)"
+       clip-path="url(#clipPath3)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.652344 37.3125 50.660156 58.652344 65.320312 79.980469 94.640625 107.98828 121.33594 128.00391 135.99609 150.65625 164.00391 170.67188 184.01953 198.67969 220.01953 241.35938 256.01953 270.67969 277.34766 285.33984 298.6875 305.35547 320.01562 334.67578"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">What does the community do?</tspan></text>
+    <path
+       id="path4"
+       d="m 95,60 h 180 v 70 H 95 Z"
+       style="fill:#dae8fc;fill-opacity:1;fill-rule:nonzero;stroke:#6c8ebf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.9584438,0,0,0.9584438,0.4792219,0.4792219)"
+       clip-path="url(#clipPath5)" />
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(0.9584534,0,0,0.9584534,114.22069,98.7207)"
+       clip-path="url(#clipPath6)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 17.332031 30.679688 36.011719 42.679688 48.925781 60.925781 74.273438 86.273438 92.941406 98.273438 111.62109 124.96875"
+         y="0"
+         sodipodi:role="line"
+         id="tspan5">Unit Testing!</tspan></text>
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="matrix(0.9584534,0,0,0.9584534,150.79168,170.60471)"
+       clip-path="url(#clipPath7)"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:700;font-size:24px;font-family:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 22.652344 37.3125 50.660156"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">Why?</tspan></text>
+  </g>
+</svg>
